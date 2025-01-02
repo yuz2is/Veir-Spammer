@@ -18,7 +18,7 @@ Press R to stop spamming.
 
 Warning
 
-U might have to install some fonts, check main.py for what u need to install or contact me on discord for help (xoxoupe)
+U might have to install some fonts, check main.py for what u need to install or contact me on discord for help (xoxoupe.)
 Use responsibly. Ensure you use for education purpose
 
 Credits
