@@ -1,10 +1,5 @@
 Installation
 
-Clone the Repository:
-
-git clone https://github.com/username/VeirSpammer.git
-cd VeirSpammer
-
 Install Dependencies:
 
 pip install -r requirements.txt
