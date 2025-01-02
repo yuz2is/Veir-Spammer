@@ -1,0 +1,10 @@
+# To install all the necessary dependencies, open a terminal and run:
+# pip install -r requirements.txt
+
+pyqt5==5.15.9      
+pyautogui==0.9.54  
+keyboard==0.13.5   
+pyperclip==1.8.2   
+
+# give credits to yuz2is
+# have fun sk- i mean making ur spammer
